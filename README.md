@@ -197,7 +197,7 @@ Notes
 
 
 ## Connect with Me
-LinkedIn: [https://www.linkedin.com/in/mannat-mangukiya-722ab42b7]
-Email: [mannatmangukiya@gmail.com]
+##### LinkedIn: [https://www.linkedin.com/in/mannat-mangukiya-722ab42b7]
+##### Email: [mannatmangukiya@gmail.com]
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
