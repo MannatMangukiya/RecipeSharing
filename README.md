@@ -196,7 +196,7 @@ Notes
 
 
 
-🤝 ## Connect with Me
+## Connect with Me
 LinkedIn: [https://www.linkedin.com/in/mannat-mangukiya-722ab42b7]
 Email: [mannatmangukiya@gmail.com]
 
