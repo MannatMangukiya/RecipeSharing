@@ -17,10 +17,27 @@ Recipe Swap is a community-based recipe sharing platform that allows users to sh
 - Front-end:
   - Chakra UI for a visually appealing and responsive user interface.
   - React.js for building dynamic and interactive components.
-- Back-end:
-  - MongoDB for storing recipe and user data.
-  - Express.js for handling server-side logic.
-  - Node.js for server-side scripting and runtime environment.
+
+##WEEK-1
+
+#DAY-1
+
+##WEEK-2
+
+#DAY-1
+
+##WEEK-3
+
+#DAY-1
+
+##WEEK-4
+
+#DAY-1
+
+##WEEK-5
+
+#DAY-1
+    
 
 ```bash
 git clone https://github.com/Manikantkr-1004/warlike-current-5989.git
@@ -42,8 +59,8 @@ npm start
 ## App Link : 
 https://recipeswap.netlify.app/
 
-## Project Team
+🤝 ## Connect with Me
+LinkedIn: [https://www.linkedin.com]
+Email: [mannatmangukiya@gmail.com]
 
-- Mannat Mangukiya
-- 
-Feel free to explore the project using the provided links and discover the world of recipes and culinary creativity!
+Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
