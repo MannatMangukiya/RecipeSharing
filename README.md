@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1d28edbc-8d9b-40c2-8e66-22608d79dfa0)# Summer Internship-I_22IT071
+# Summer Internship-I_22IT071
 
 ### 4th Sem-Summer Internship
 
@@ -6,7 +6,7 @@ Recipe Swap is a community-based recipe sharing platform that allows users to sh
 
 # Week-1 Frontend Technology & Tools
 
- ## Day 1: Monday, 13/05/2024
+## Day 1: Monday, 13/05/2024
 ### Topic: 
 Frontend Technology & Tools
 ### Activities:
@@ -197,7 +197,7 @@ Notes
 
 
 🤝 ## Connect with Me
-LinkedIn: [https://www.linkedin.com]
+LinkedIn: [https://www.linkedin.com/in/mannat-mangukiya-722ab42b7]
 Email: [mannatmangukiya@gmail.com]
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
